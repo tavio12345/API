@@ -1,13 +1,14 @@
 # API
-Projeto Integrador
-- Grupo 
 
-Integrantes: 
--Cesar Kazu
--Luís Augusto
--Larissa Costa
--Alexandre Gill
--Otávio Augusto
+## Projeto Integrador - Grupo
+
+## Integrantes:
+
+## - Cesar Kazu
+## - Luís Augusto
+## - Larissa Costa
+## - Alexandre Gill
+## - Otávio Augusto
 
 
 
