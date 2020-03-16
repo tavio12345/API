@@ -1,4 +1,15 @@
 # API
+Projeto Integrador
+- Grupo 
+
+Integrantes: 
+-Cesar Kazu
+-Luís Augusto
+-Larissa Costa
+-Alexandre Gill
+-Otávio Augusto
+
+
 
 Calendário interativo: Tem a finalidade de agilizar e facilitar o uso do calendário via celular. Com o app você pode definir lembretes de uma maneira mais simples e intuitva ou marcar eventos com seus contatos de maneira mais rapida  de forma que o app cria um grupo para os contatos adicionado ao evento para lembrá-lo do compromisso marcado sendo necessario apenas um dos integrantes do grupo a criação do evento. 
 
